@@ -1,0 +1,3 @@
+- As URLs são cadastradas na tabela **TCMWEB.dbo.TCMWEB_URL**
+- A URL que pode ser divulgada é **http(s)://www.tcmrio.tc.br/t/identificador**
+- Exemplo: Se o identificador na tabela é **sic**, a URL será **http(s)://www.tcmrio.tc.br/t/sic**
